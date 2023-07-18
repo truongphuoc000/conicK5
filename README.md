@@ -1,4 +1,4 @@
-![image](https://github.com/truongphuoc000/conicK5/assets/72129861/0f96e161-9288-41e6-ba42-e7026b78eea1)# DỰ ÁN CONICK5
+# DỰ ÁN CONICK5
 Được làm trong thời gian tháng 4/2023, đã phát triển gia công bởi Phuoc Nguyen từ phần cứng và phần mềm
 ## Thông tin sản phẩm 
 - Case : In 3D chất liệu nhựa PLA , góc nghiêng 6 độ
